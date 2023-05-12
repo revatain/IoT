@@ -1,3 +1,8 @@
+#ex3.py
+
+#대소문자 구분
+#자바와 선언 문법 같음
+
 boolVar = False
 intVar = 100
 floatVar = 123.45
